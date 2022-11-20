@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there! I'm Camila 👋 
 
-<!--
-**camila-marquess/camila-marquess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about solving problems, learning and sharing what I know. 
+Currently, I'm a junior analytics engineer @MercadoFavo.
 
-Here are some ideas to get you started:
+#### :blue_heart: My passions 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Books
+- TV Series 
+- Travel
+
+### Languages and Tools 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://www.svgrepo.com/show/7344/sql-file-format-symbol.svg" width="40" height="40"/>
+
+
+### Learning
+<img src="https://www.svgrepo.com/show/353380/airflow.svg" width="40" height="40"/> 
+
+
+
+
+
