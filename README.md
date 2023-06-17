@@ -15,7 +15,7 @@ Currently, I'm a junior analytics engineer @MercadoFavo.
 
 
 ### Learning
-<img src="https://www.svgrepo.com/show/353380/airflow.svg" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/show/353380/airflow.svg" width="40" height="40"/> <img src="https://www.svgrepo.com/show/330270/dbt.svg" width="40" height="40"/> 
 
 
 
