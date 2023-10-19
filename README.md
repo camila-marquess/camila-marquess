@@ -17,7 +17,9 @@ Currently, I'm a data engineer @PowerOfData.
 ### Learning
 <img src="https://www.svgrepo.com/show/353380/airflow.svg" width="40" height="40"/> <img src="https://www.svgrepo.com/show/330270/dbt.svg" width="40" height="40"/> 
 
+### Statistics
 
-
-
+<a href="https://github.com/camila-marquess">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-marquess&layout=compact&langs_count=8&theme=graywhite"/>
+</a>
 
