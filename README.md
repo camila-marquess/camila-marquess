@@ -1,7 +1,7 @@
 ### Hi there! I'm Camila 👋 
 
 I am passionate about solving problems, learning and sharing what I know. 
-Currently, I'm a data engineer @PowerOfData.
+Currently, I'm a data platform engineer @Loggi.
 
 #### :blue_heart: My passions 
 
